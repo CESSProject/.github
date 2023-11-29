@@ -5,7 +5,7 @@ _**-Unlimited Scalable Storage for Web3-**_
 
 CESS is a secure, efficient, and scalable decentralized cloud storage network that provides data storage services and data sharing platforms for Web3.
 
-- [View User Doc](https://github.com/CESSProject/cess/wiki)
+- [View User Doc]([https://docs.cess.cloud)
 - [See CIPs](https://github.com/CESSProject/CIPs)
 - [Read Whitepaper](https://github.com/CESSProject/Whitepaper)
 - [Join Discord](http://discord.gg/cess)
